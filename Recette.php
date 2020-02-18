@@ -60,7 +60,7 @@ class Recette {
     */
 
     public function setUstensiles($ustensiles) {
-        $this->ustensile = $ustensiles;
+        $this->ustensiles = $ustensiles;
     }
 
     /*
